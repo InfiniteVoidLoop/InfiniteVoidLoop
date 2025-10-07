@@ -1,22 +1,42 @@
-👋 Hi there, I’m InfiniteVoidLoop
+## 👋 Hi there, I’m **InfiniteVoidLoop**
 
-A passionate software developer who loves building apps, solving problems, and learning new technologies. I explore everything from mobile & web to systems programming — and I enjoy sharing my journey through open source.
+I’m a **passionate software developer** who loves building impactful applications, solving challenging problems, and continuously learning new technologies.  
+From **web and mobile development** to **systems programming**, I enjoy exploring different layers of software and sharing my journey through **open-source projects**.
 
-🛠 What I Work With
+---
 
-🧠 Languages & Tools
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" /> </p>
+### 🛠️ What I Work With
 
-🚀 What I’m Up To
+#### 🧠 Languages & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" />
+</p>
 
-Building web apps with React, Python, and TypeScript
+---
 
-Developing Android mobile apps
+### 🚀 What I’m Currently Doing
 
-Working on low-level projects in C / C++
+- 🧩 Building **web applications** with **React**, **Python**, and **TypeScript**
+- 📱 Developing **Android mobile apps**
+- ⚙️ Working on **low-level systems** using **C/C++**
+- ☕ Writing **clean, efficient code** in **Java** and **JavaScript**
+- 🗄 Managing databases **SQL databases**
+- 🌱 Continuously exploring **new technologies** and contributing to **open source**
 
-Writing efficient code in Java and JavaScript
+---
 
-Managing and optimizing SQL databases
+### 🌟 Let’s Connect
 
-Always exploring new tech and open-source collaboration
+💬 Always open to collaboration, discussions, and learning opportunities.  
+If you share a passion for innovation and code, let’s build something awesome together!
+
+---
