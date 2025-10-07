@@ -1,6 +1,22 @@
-👋 About Me
+👋 Hi there, I’m InfiniteVoidLoop
 
-Hi, I’m Đặng Võ Hồng Phúc (aka InfiniteVoidLoop). I’m currently studying at the University of Science, specializing in Information Of Technology.| Frontend                                                                                                            | Backend                                                                                                                      | Styling / UI                                                                                                             | Database & Others                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)               | ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge\&logo=ruby-on-rails\&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node-dot-js\&logoColor=white)               | ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge\&logo=ant-design\&logoColor=white)      | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)          |
+A passionate software developer who loves building apps, solving problems, and learning new technologies. I explore everything from mobile & web to systems programming — and I enjoy sharing my journey through open source.
+
+🛠 What I Work With
+
+🧠 Languages & Tools
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" /> </p>
+
+🚀 What I’m Up To
+
+Building web apps with React, Python, and TypeScript
+
+Developing Android mobile apps
+
+Working on low-level projects in C / C++
+
+Writing efficient code in Java and JavaScript
+
+Managing and optimizing SQL databases
+
+Always exploring new tech and open-source collaboration
