@@ -17,7 +17,6 @@ From **web and mobile development** to **systems programming**, I enjoy explorin
 ### 🚀 What I’m Currently Doing
 
 - 🧩 Building **web applications** with **React**, **Python**, and **TypeScript**
-- 📱 Developing **Android mobile apps**
 - ⚙️ Working on **low-level systems** using **C/C++**
 - ☕ Writing **clean, efficient code** in **Java** and **JavaScript**
 - 🗄 Managing databases **SQL databases**
